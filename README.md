@@ -16,6 +16,7 @@ AI for Bachelors of Computer Science - Materials and Exercises
     - 📜 [Presentation](https://docs.google.com/presentation/d/1KtkNAgtE9IF6u5PVxx1yabhyQVLJ-Bks4KZF90ammz8/edit?usp=sharing)
 
 - Week 2 - **Informed search.** - _15.10.2021_
+    - [Pathfinding-Visualizer](https://clementmihailescu.github.io/Pathfinding-Visualizer/#)
     - 🎥 [Recording 1]()
     - 🎥 [Recording 2]()
     - 📓 [Materials and code]()
