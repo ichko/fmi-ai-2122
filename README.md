@@ -17,10 +17,14 @@ AI for Bachelors of Computer Science - Materials and Exercises
 
 - Week 2 - **Informed search.** - _15.10.2021_
     - [Pathfinding-Visualizer](https://clementmihailescu.github.io/Pathfinding-Visualizer/#)
+    - 🎥 [Recording 1](https://drive.google.com/file/d/1CP8Lf0awts-vzMVs18m2Y7YVpfDCzZBk/view?usp=sharing)
+    - 🎥 [Recording 2](https://drive.google.com/file/d/1aUL0K12ZRBpE-nanszZcx3nYSRLs8AT7/view?usp=sharing)
+    - 📓 [Materials and code](./week-02.ipynb)
+
+- Week 3 - **More on uninformed search and solving some homeworks.** - _22.10.2021_
     - 🎥 [Recording 1]()
     - 🎥 [Recording 2]()
-    - 📓 [Materials and code]()
-    - 📜 [Presentation]()
+    - 📓 [Materials and code](./week-03.ipynb)
 
 
 ## 🔗 Useful Links
