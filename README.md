@@ -22,9 +22,16 @@ AI for Bachelors of Computer Science - Materials and Exercises
     - 📓 [Materials and code](./week-02.ipynb)
 
 - Week 3 - **More on uninformed search and solving some homeworks.** - _22.10.2021_
+    - 🎥 [Recording 1](https://drive.google.com/file/d/18vAeCnCcEcEwOc977g4UP9WZVgZoWbrW/view?usp=sharing)
+    - 🎥 [Recording 2](https://drive.google.com/file/d/18eR5rP6bRJw4TrlZGP3XIdw88o-c8x3c/view?usp=sharing)
+    - 📓 [Materials and code](./week-03.ipynb)
+
+
+- Week 3 - **Constraint satisfaction problems.** - _29.10.2021_
     - 🎥 [Recording 1]()
     - 🎥 [Recording 2]()
-    - 📓 [Materials and code](./week-03.ipynb)
+    - 📓 [Materials and code](./week-04.ipynb)
+    - 📜 [Presentation](https://docs.google.com/presentation/d/1yq_zox3ZJBvf4BTOz7fFzjsynMsvL9wwnFgjoI5UR7Y/edit?usp=sharing)
 
 
 ## 🔗 Useful Links
