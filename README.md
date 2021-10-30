@@ -27,11 +27,27 @@ AI for Bachelors of Computer Science - Materials and Exercises
     - 📓 [Materials and code](./week-03.ipynb)
 
 
-- Week 3 - **Constraint satisfaction problems.** - _29.10.2021_
-    - 🎥 [Recording 1]()
-    - 🎥 [Recording 2]()
+- Week 4 - **Constraint satisfaction problems.** - _29.10.2021_
+    - 🎥 [Recording 1](https://drive.google.com/file/d/1cXtGnX1IbJ5YK8-OkxvQNVIYWngi2OuE/view?usp=sharing)
+    - 🎥 [Recording 2](https://drive.google.com/file/d/1f1knoBSyIL5uksuxQCviJQbP45APolz7/view?usp=sharing)
     - 📓 [Materials and code](./week-04.ipynb)
     - 📜 [Presentation](https://docs.google.com/presentation/d/1yq_zox3ZJBvf4BTOz7fFzjsynMsvL9wwnFgjoI5UR7Y/edit?usp=sharing)
+
+
+- Week 5 - **Genetic Algorithms.** - _05.11.2021_
+    - 🎥 [Recording 1]()
+    - 🎥 [Recording 2]()
+    - 📓 [Materials and code](./week-05.ipynb)
+    - 📜 [Presentation](https://docs.google.com/presentation/d/1i1DuKFSsM085hdW0FPOII13ATIKmkhBNhrQG7HZ7iKM/edit?usp=sharing)
+
+
+- Week 6 - **Games.** - _11.11.2021_
+- Week 7 - **. Introduction to Machine Learning.** - 
+- Week 8 - **k-Nearest Neighbors.** - 
+- Week 9 - **Naïve Bayes Classifier.** - 
+- Week 10 - **Decision Tree.** - 
+- Week 11 - **kMeans.** - 
+- Week 12 - **Neural Networks.** - 
 
 
 ## 🔗 Useful Links
