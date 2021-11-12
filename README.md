@@ -43,7 +43,7 @@ AI for Bachelors of Computer Science - Materials and Exercises
 - Week 6 - **Games.** - _11.11.2021_
     - 🎥 [Recording 1]()
     - 📓 [Materials and code](./week-06.ipynb)
-    - 📜 [Presentation]()
+    - 📜 [Presentation](https://docs.google.com/presentation/d/1RfEoiZ78uHCy5Lr-gVnHSe5eCerLtKYg7qQ3_r1FnSs/edit?usp=sharing)
 
 - Week 7 - **Introduction to Machine Learning.** - 
 - Week 8 - **k-Nearest Neighbors.** - 
