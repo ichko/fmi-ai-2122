@@ -35,17 +35,23 @@ AI for Bachelors of Computer Science - Materials and Exercises
 
 
 - Week 5 - **Genetic Algorithms.** - _05.11.2021_
-    - 🎥 [Recording 1](https://drive.google.com/file/d/19cIAG92yv-Mn21_oFOxDQXo5-9xC-KS7/view?usp=sharing)
+    - 🎥 [Recording](https://drive.google.com/file/d/19cIAG92yv-Mn21_oFOxDQXo5-9xC-KS7/view?usp=sharing)
     - 📓 [Materials and code](./week-05.ipynb)
     - 📜 [Presentation](https://docs.google.com/presentation/d/1i1DuKFSsM085hdW0FPOII13ATIKmkhBNhrQG7HZ7iKM/edit?usp=sharing)
 
 
 - Week 6 - **Games.** - _11.11.2021_
-    - 🎥 [Recording 1]()
+    - 🎥 [Recording](https://drive.google.com/file/d/144MlX1AdTBduBT-yvnyX6yMJyix6QdS6/view?usp=sharing)
     - 📓 [Materials and code](./week-06.ipynb)
     - 📜 [Presentation](https://docs.google.com/presentation/d/1RfEoiZ78uHCy5Lr-gVnHSe5eCerLtKYg7qQ3_r1FnSs/edit?usp=sharing)
 
-- Week 7 - **Introduction to Machine Learning.** - 
+
+- Week 7 - **Introduction to Machine Learning.** - _19.11.2021_
+    - 🎥 [Recording 1](#)
+    - 📓 [Materials and code](./week-07.ipynb)
+    - 📜 [Presentation](https://docs.google.com/presentation/d/1vO1vBoXu8dU4z-C_jTTRa0ZHWyftkvY3USavoE-ItTg/edit?usp=sharing)
+
+
 - Week 8 - **k-Nearest Neighbors.** - 
 - Week 9 - **Naïve Bayes Classifier.** - 
 - Week 10 - **Decision Tree.** - 
