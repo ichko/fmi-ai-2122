@@ -42,17 +42,22 @@ AI for Bachelors of Computer Science - Materials and Exercises
 
 - Week 6 - **Games.** - _11.11.2021_
     - 🎥 [Recording](https://drive.google.com/file/d/144MlX1AdTBduBT-yvnyX6yMJyix6QdS6/view?usp=sharing)
-    - 📓 [Materials and code](./week-06.ipynb)
+    <!-- - 📓 [Materials and code](./week-06.ipynb) -->
     - 📜 [Presentation](https://docs.google.com/presentation/d/1RfEoiZ78uHCy5Lr-gVnHSe5eCerLtKYg7qQ3_r1FnSs/edit?usp=sharing)
 
 
 - Week 7 - **Introduction to Machine Learning.** - _19.11.2021_
-    - 🎥 [Recording 1](#)
-    - 📓 [Materials and code](./week-07.ipynb)
+    - 🎥 [Recording](https://drive.google.com/file/d/1mgoXeaYAV2K9LEjS4NEKWnCDZqBtdmWN/view?usp=sharing)
+    <!-- - 📓 [Materials and code](./week-07.ipynb) -->
     - 📜 [Presentation](https://docs.google.com/presentation/d/1vO1vBoXu8dU4z-C_jTTRa0ZHWyftkvY3USavoE-ItTg/edit?usp=sharing)
 
 
-- Week 8 - **k-Nearest Neighbors.** - 
+- Week 8 - **k-Nearest Neighbors.** - _26.11.2021_
+    - 🎥 [Recording](#)
+    - 📓 [Materials and code](./week-08.ipynb)
+    - 📜 [Presentation](https://docs.google.com/presentation/d/1L4nXZllplDafPO9N252kdjzDiDTqIC7QhHsKxsW2UCs/edit?usp=sharing)
+
+
 - Week 9 - **Naïve Bayes Classifier.** - 
 - Week 10 - **Decision Tree.** - 
 - Week 11 - **kMeans.** - 
