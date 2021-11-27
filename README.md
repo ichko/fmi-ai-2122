@@ -53,7 +53,8 @@ AI for Bachelors of Computer Science - Materials and Exercises
 
 
 - Week 8 - **k-Nearest Neighbors.** - _26.11.2021_
-    - 🎥 [Recording](#)
+    - 🎥 [Recording 1](https://drive.google.com/file/d/1uHd1R3KuVlPG42HFYW_ylOTYL5sl5l4o/view?usp=sharing)
+    - 🎥 [Recording 2](https://drive.google.com/file/d/1cvESnCI-PFF445Hsvi5jwFyUuFcGwRG3/view?usp=sharing)
     - 📓 [Materials and code](./week-08.ipynb)
     - 📜 [Presentation](https://docs.google.com/presentation/d/1L4nXZllplDafPO9N252kdjzDiDTqIC7QhHsKxsW2UCs/edit?usp=sharing)
 
