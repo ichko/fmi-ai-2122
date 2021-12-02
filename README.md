@@ -59,7 +59,13 @@ AI for Bachelors of Computer Science - Materials and Exercises
     - 📜 [Presentation](https://docs.google.com/presentation/d/1L4nXZllplDafPO9N252kdjzDiDTqIC7QhHsKxsW2UCs/edit?usp=sharing)
 
 
-- Week 9 - **Naïve Bayes Classifier.** - 
+- Week 9 - **Naïve Bayes Classifier.** - _03.12.2021_
+    - 🎥 [Recording]()
+    - 📓 [Materials and code](./week-09.ipynb)
+    - 📜 [Presentation](https://docs.google.com/presentation/d/1cEUvdQ1k9wycKmDbbDNLq6atLmKUSohRdPuWN7qiwPg/edit?usp=sharing)
+
+
+
 - Week 10 - **Decision Tree.** - 
 - Week 11 - **kMeans.** - 
 - Week 12 - **Neural Networks.** - 
