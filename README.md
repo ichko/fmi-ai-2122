@@ -4,6 +4,7 @@ AI for Bachelors of Computer Science - Materials and Exercises
 
 - Assistant - **Iliya Zhechev** (Discord: Iliya Zhechev#3253 or iliya.zhechev ат гмаил дот ком)
 - 📅 Place and time - every Friday (starting 08.10.21) from 12.00 to 14.00 @ FMI 222 and/or **online** (all meetings will be online unless stated otherwise)
+  - **Practice for `Week 10` moves from _10.12.2021_ to _14.12.2021_ at 10.00 o'clock in the morning**
 - 📞 [Google Meet link for the online meetings](https://meet.google.com/ozv-vywy-shh)
 - 🏫 [Link to the Moodle course](https://learn.fmi.uni-sofia.bg/course/view.php?id=7519)
 
@@ -60,13 +61,18 @@ AI for Bachelors of Computer Science - Materials and Exercises
 
 
 - Week 9 - **Naïve Bayes Classifier.** - _03.12.2021_
-    - 🎥 [Recording]()
+    - 🎥 [Recording](https://drive.google.com/file/d/1QfwBcRkeGgZfNbqRD0FdT297t2KO3srW/view?usp=sharing)
     - 📓 [Materials and code](./week-09.ipynb)
     - 📜 [Presentation](https://docs.google.com/presentation/d/1cEUvdQ1k9wycKmDbbDNLq6atLmKUSohRdPuWN7qiwPg/edit?usp=sharing)
 
 
 
-- Week 10 - **Decision Tree.** - 
+- Week 10 - **Decision Tree.** - _10.12.2021_ moved to _14.12.2021_
+    - 🎥 [Recording]()
+    - 📓 [Materials and code](./week-10.ipynb)
+    - 📜 [Presentation]()
+
+
 - Week 11 - **kMeans.** - 
 - Week 12 - **Neural Networks.** - 
 
