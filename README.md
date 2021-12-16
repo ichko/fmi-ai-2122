@@ -66,14 +66,16 @@ AI for Bachelors of Computer Science - Materials and Exercises
     - 📜 [Presentation](https://docs.google.com/presentation/d/1cEUvdQ1k9wycKmDbbDNLq6atLmKUSohRdPuWN7qiwPg/edit?usp=sharing)
 
 
-
 - Week 10 - **Decision Tree.** - _10.12.2021_ moved to _14.12.2021_
+    - 🎥 [Recording](https://drive.google.com/file/d/1Gb-bcTl8IsjJjZEzL_iZBy0-amfrieQw/view?usp=sharing)
+    - 📜 [Presentation](https://docs.google.com/presentation/d/1xiOavSo3Hfc-gsyFapNmzOCYirKxTliUDR85fgs-kOw/edit?usp=sharing)
+
+
+- Week 11 - **kMeans.** - _16.12.2021_
     - 🎥 [Recording]()
-    - 📓 [Materials and code](./week-10.ipynb)
     - 📜 [Presentation]()
 
 
-- Week 11 - **kMeans.** - 
 - Week 12 - **Neural Networks.** - 
 
 
