@@ -5,6 +5,7 @@ AI for Bachelors of Computer Science - Materials and Exercises
 - Assistant - **Iliya Zhechev** (Discord: Iliya Zhechev#3253 or iliya.zhechev ат гмаил дот ком)
 - 📅 Place and time - every Friday (starting 08.10.21) from 12.00 to 14.00 @ FMI 222 and/or **online** (all meetings will be online unless stated otherwise)
   - **Practice for `Week 10` moves from _10.12.2021_ to _14.12.2021_ at 10.00 o'clock in the morning**
+  - **Practice for `Week 11` moves from _16.12.2021_ to _32.12.2021_ at 10.00 o'clock in the morning**
 - 📞 [Google Meet link for the online meetings](https://meet.google.com/ozv-vywy-shh)
 - 🏫 [Link to the Moodle course](https://learn.fmi.uni-sofia.bg/course/view.php?id=7519)
 
@@ -71,12 +72,14 @@ AI for Bachelors of Computer Science - Materials and Exercises
     - 📜 [Presentation](https://docs.google.com/presentation/d/1xiOavSo3Hfc-gsyFapNmzOCYirKxTliUDR85fgs-kOw/edit?usp=sharing)
 
 
-- Week 11 - **kMeans.** - _16.12.2021_
+- Week 11 - **kMeans.** - _16.12.2021_ moved to _21.12.2021_
+    - 🎥 [Recording](https://drive.google.com/file/d/1dbw5i6QJUnp-6JgPx_8NzTgQjK6FspjR/view?usp=sharing)
+    - 📜 [Presentation](https://docs.google.com/presentation/d/1Z_iWJpYbuiLF0yCtpIQ8bXgCezwL7sfFKjZmf86r2PY/edit?usp=sharing)
+
+
+- Week 12 - **Neural Networks.** - _??.01.2022_
     - 🎥 [Recording]()
     - 📜 [Presentation]()
-
-
-- Week 12 - **Neural Networks.** - 
 
 
 ## 🔗 Useful Links
