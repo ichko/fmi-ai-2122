@@ -79,7 +79,7 @@ AI for Bachelors of Computer Science - Materials and Exercises
 
 
 - Week 12 - **Neural Networks.** - _07.01.2022_
-    - 🎥 [Recording]()
+    - 🎥 [Recording](https://drive.google.com/file/d/1UUkxdlpdSHcZn9u1fbdi2136PywmP_Un/view?usp=sharing)
     - 📜 [Presentation](https://docs.google.com/presentation/d/1ah5jJymacEUZfzt7CpAiJ79Tw0XcWBgo1BZWdRYxzXA/edit?usp=sharing)
 
 
